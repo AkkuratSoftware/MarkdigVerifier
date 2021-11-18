@@ -1,0 +1,15 @@
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.exe
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.deps.json
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.runtimeconfig.json
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.runtimeconfig.dev.json
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.dll
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\MarkdigVerifier.pdb
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\bin\Debug\netcoreapp3.1\Markdig.dll
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.csproj.AssemblyReference.cache
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.AssemblyInfoInputs.cache
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.AssemblyInfo.cs
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.csproj.CoreCompileInputs.cache
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.csproj.CopyComplete
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.dll
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.pdb
+C:\Source\AkkuratSoftware\Verifier\MarkdigVerifier\obj\Debug\netcoreapp3.1\MarkdigVerifier.genruntimeconfig.cache

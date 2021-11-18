@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MarkdigVerifier/1.0.0": {
+        "dependencies": {
+          "Markdig": "0.26.0"
+        },
+        "runtime": {
+          "MarkdigVerifier.dll": {}
+        }
+      },
+      "Markdig/0.26.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Markdig.dll": {
+            "assemblyVersion": "0.26.0.0",
+            "fileVersion": "0.26.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarkdigVerifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Markdig/0.26.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9+V9emMb+/rzzuwbNldmIUK6YTYU7hP4Fw1QxH2ht1N0Pr33TJobayzXM6/cBCILV1nhhOxzNGdISj85v2OBcQ==",
+      "path": "markdig/0.26.0",
+      "hashPath": "markdig.0.26.0.nupkg.sha512"
+    }
+  }
+}

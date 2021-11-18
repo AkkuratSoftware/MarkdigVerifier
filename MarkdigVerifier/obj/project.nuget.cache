@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VB2ZWc9bpKFPxU5dKX0V+8rPVt97s2Eg8WukpJ04ZDCinmDShOBaQzMagD+qW6YMln1YTNBevGitaGISAPf12Q==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\AkkuratSoftware\\Verifier\\MarkdigVerifier\\MarkdigVerifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesli\\.nuget\\packages\\markdig\\0.26.0\\markdig.0.26.0.nupkg.sha512",
+    "C:\\Users\\lesli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

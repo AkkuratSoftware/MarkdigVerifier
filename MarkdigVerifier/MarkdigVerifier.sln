@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdigVerifier", "MarkdigVerifier.csproj", "{FBC3B32E-05DE-4388-AF7E-5580EF5CB85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC3B32E-05DE-4388-AF7E-5580EF5CB85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC3B32E-05DE-4388-AF7E-5580EF5CB85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC3B32E-05DE-4388-AF7E-5580EF5CB85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC3B32E-05DE-4388-AF7E-5580EF5CB85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF2D8C6D-6AE2-4AFD-BCD8-0093738DEF3C}
+	EndGlobalSection
+EndGlobal
